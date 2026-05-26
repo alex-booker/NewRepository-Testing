@@ -93,6 +93,9 @@ test('viewer user is redirected to read-only view', async ({ page }) => {
 console.log(adminUser); // Mariana
 console.log(regularUser); // Booker
 
+// modified for the new branch
+  // this is a test
+  
 }); 
 
 
