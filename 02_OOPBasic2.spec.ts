@@ -84,7 +84,9 @@ test('viewer user is redirected to read-only view', async ({ page }) => {
 
   await page.click('[data-test=login-button]'); 
 
-  // se agrego comentario para el Branch 03
+// se agrego comentario para el Branch 03
+  
+//adding comments to test on Branch 02
 
     await expect(page).toHaveURL('https://www.saucedemo.com/inventory.html');
 
