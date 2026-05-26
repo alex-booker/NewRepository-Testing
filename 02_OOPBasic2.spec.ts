@@ -91,6 +91,7 @@ test('viewer user is redirected to read-only view', async ({ page }) => {
   await expect(page.locator('[data-test=title]')).toHaveText('Products');
 
 console.log(adminUser); // Mariana
+  //create a conflict between files
 console.log(regularUser); // Booker
 
 // modified for the new branch
