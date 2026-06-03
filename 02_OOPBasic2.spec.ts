@@ -101,6 +101,7 @@ console.log(regularUser); // Booker
   
 
 // this is a test for the NewBranch 04
+  // Testing Rebase - Branch 04
 
 }); 
 
