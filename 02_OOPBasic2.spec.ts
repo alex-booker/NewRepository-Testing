@@ -99,6 +99,9 @@ console.log(regularUser); // Booker
 // modified for the new branch
   // this is a test
   
+
+// this is a test for the NewBranch 04
+
 }); 
 
 
